@@ -11,3 +11,4 @@
 - [crawlee](https://github.com/apify/crawlee)
 - [scrape-it](https://github.com/IonicaBizau/scrape-it)
 - [webster](https://github.com/zhuyingda/webster)
+- [EasySpider](https://github.com/NaiboWang/EasySpider)
