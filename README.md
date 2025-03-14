@@ -10,3 +10,4 @@
 - [node-crawler](https://github.com/bda-research/node-crawler)
 - [crawlee](https://github.com/apify/crawlee)
 - [scrape-it](https://github.com/IonicaBizau/scrape-it)
+- [webster](https://github.com/zhuyingda/webster)
