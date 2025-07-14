@@ -10,6 +10,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [Craw4LLM](https://github.com/cxcscmu/Craw4LLM)
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
 - [DrissionPage](https://github.com/g1879/DrissionPage)
 - [x-crawl](https://coder-hxl.github.io/x-crawl/cn/)
