@@ -10,6 +10,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [AnyCrawl](https://github.com/any4ai/AnyCrawl)
 - [Scraperr](https://github.com/jaypyles/Scraperr)
 - [Craw4LLM](https://github.com/cxcscmu/Craw4LLM)
 - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
