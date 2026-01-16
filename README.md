@@ -11,6 +11,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft)
 - [crawl4ai](https://github.com/unclecode/crawl4ai)
 - [AnyCrawl](https://github.com/any4ai/AnyCrawl)
 - [Scraperr](https://github.com/jaypyles/Scraperr)
