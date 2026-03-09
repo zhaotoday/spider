@@ -11,6 +11,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [camoufox-js](https://github.com/apify/camoufox-js)
 - [cariddi](https://github.com/edoardottt/cariddi)
 - [scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft)
 - [crawl4ai](https://github.com/unclecode/crawl4ai)
