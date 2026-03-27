@@ -12,6 +12,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [bb-sites](https://github.com/epiral/bb-sites)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [HeadlessX](https://github.com/saifyxpro/HeadlessX)
