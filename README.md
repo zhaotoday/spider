@@ -11,6 +11,7 @@
 - [Apify](https://apify.com/)
 
 #### 开源
+- [bb-browser](https://github.com/epiral/bb-browser)
 - [HeadlessX](https://github.com/saifyxpro/HeadlessX)
 - [camoufox-js](https://github.com/apify/camoufox-js)
 - [cariddi](https://github.com/edoardottt/cariddi)
