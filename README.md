@@ -10,6 +10,7 @@
 
 #### 平台
 - [Apify](https://apify.com/)
+- [rapidapi](https://rapidapi.com/)
 
 #### 开源
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
