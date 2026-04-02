@@ -14,6 +14,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [maxun](https://github.com/getmaxun/maxun)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [bb-sites](https://github.com/epiral/bb-sites)
 - [bb-browser](https://github.com/epiral/bb-browser)
