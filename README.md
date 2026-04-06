@@ -14,6 +14,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [agent-fetch](https://github.com/teng-lin/agent-fetch)
 - [maxun](https://github.com/getmaxun/maxun)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [bb-sites](https://github.com/epiral/bb-sites)
