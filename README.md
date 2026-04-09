@@ -9,6 +9,7 @@
 - [爬虫的反爬机制与应对策略](https://juejin.cn/post/7406253583316533300)
 
 #### 平台
+- [firecrawl](https://www.firecrawl.dev/)
 - [tikwmapi](https://tikwmapi.com/)
 - [Apify](https://apify.com/)
 - [rapidapi](https://rapidapi.com/)
