@@ -15,6 +15,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [interesting-python](https://github.com/Alfred1984/interesting-python)
 - [agent-fetch](https://github.com/teng-lin/agent-fetch)
 - [maxun](https://github.com/getmaxun/maxun)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
