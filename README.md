@@ -15,6 +15,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [typescript-scrapfly](https://github.com/scrapfly/typescript-scrapfly)
 - [botasaurus](https://github.com/omkarcloud/botasaurus)
 - [interesting-python](https://github.com/Alfred1984/interesting-python)
 - [agent-fetch](https://github.com/teng-lin/agent-fetch)
