@@ -15,6 +15,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [Scrapling](https://github.com/D4Vinci/Scrapling)
 - [rayobrowse](https://github.com/rayobyte-data/rayobrowse)
 - [typescript-scrapfly](https://github.com/scrapfly/typescript-scrapfly)
 - [botasaurus](https://github.com/omkarcloud/botasaurus)
