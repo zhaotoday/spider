@@ -15,6 +15,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [NewsCrawler](https://github.com/NanmiCoder/NewsCrawler)
 - [Scrapling](https://github.com/D4Vinci/Scrapling)
 - [rayobrowse](https://github.com/rayobyte-data/rayobrowse)
 - [typescript-scrapfly](https://github.com/scrapfly/typescript-scrapfly)
