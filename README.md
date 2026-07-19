@@ -18,6 +18,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [webclaw](https://github.com/0xMassi/webclaw)
 - [NewsCrawler](https://github.com/NanmiCoder/NewsCrawler)
 - [Scrapling](https://github.com/D4Vinci/Scrapling)
 - [rayobrowse](https://github.com/rayobyte-data/rayobrowse)
