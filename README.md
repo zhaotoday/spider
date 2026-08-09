@@ -18,6 +18,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [deepspider](https://github.com/ma-pony/deepspider)
 - [Spider_XHS](https://github.com/cv-cat/Spider_XHS)
 - [webclaw](https://github.com/0xMassi/webclaw)
 - [NewsCrawler](https://github.com/NanmiCoder/NewsCrawler)
