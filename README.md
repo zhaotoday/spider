@@ -18,6 +18,7 @@
 - [rapidapi](https://rapidapi.com/)
 
 #### 开源
+- [CF-Ares](https://github.com/hawkli-1994/CF-Ares)
 - [deepspider](https://github.com/ma-pony/deepspider)
 - [Spider_XHS](https://github.com/cv-cat/Spider_XHS)
 - [webclaw](https://github.com/0xMassi/webclaw)
