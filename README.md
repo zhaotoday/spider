@@ -12,6 +12,7 @@
 - [爬虫的反爬机制与应对策略](https://juejin.cn/post/7406253583316533300)
 
 #### 平台
+- [coreclaw](https://www.coreclaw.com/zh)
 - [firecrawl](https://www.firecrawl.dev/)
 - [tikwmapi](https://tikwmapi.com/)
 - [Apify](https://apify.com/)
